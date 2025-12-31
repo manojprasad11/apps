@@ -1,6 +1,0 @@
-For PWA icons, you can add these files to the public folder:
-- icon-192.png (192x192 pixels)
-- icon-512.png (512x512 pixels)
-
-These are referenced in vite.config.js. You can create simple icons or use any image editing tool.
-For now, the app will work without these icons, but they enhance the PWA experience.
